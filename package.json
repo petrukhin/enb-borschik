@@ -19,7 +19,7 @@
   "peerDependencies": {
     "enb": ">=0.13.0",
     "enb-bembundle": "^1.0.0",
-    "borschik": "^1.3.2"
+    "borschik": "git://github.com/petrukhin/borschik.git#cursor-freeze-support"
   },
   "devDependencies": {
     "jscs": "~1.2.4",
